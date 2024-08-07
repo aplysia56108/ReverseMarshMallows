@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         ReverseMarshMallows
 // @namespace    https://github.com/aplysia56108/ReverseMarshMallows
-// @version      1.0
-// @description  マシュマロを逆順にするボタンを追加。また、マシュマロをクリックしたときに別windowが開くようにする。
+// @version      1.1
+// @description  マシュマロを逆順にするボタンを追加。また、クリックしたときに別windowでマシュマロを開くボタンを追加する。
 // @author       aplysia56108
 // @license      MIT
 // @match        https://marshmallow-qa.com/messages*
