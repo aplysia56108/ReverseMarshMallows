@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  マシュマロを逆順にするボタンを追加。また、マシュマロをクリックしたときに別windowが開くようにする。
 // @author       aplysia56108
+// @license      MIT
 // @match        https://marshmallow-qa.com/messages*
 // @require      http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js
 // ==/UserScript==
